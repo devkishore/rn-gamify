@@ -14,7 +14,7 @@
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "jsx": "react-native",
-    "types": ["react", "react-native"],
+    "types": ["jest", "react", "react-native"],
     "baseUrl": ".",
     "paths": {
       "@rn-monorepo/common": ["../../packages/common/src"]
