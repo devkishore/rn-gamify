@@ -8,5 +8,5 @@ on:
       - develop
 
 jobs:
-  call-workflow:
+  '[High]':
     uses: devkishore/rn-monorepo/.github/workflows/checks-high.yml@main
